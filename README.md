@@ -9,6 +9,7 @@ This README provides concise instructions for installing dependencies and runnin
 - Python 3.x
 - Flask
 - SpaCy
+- Pdfplumber
 
 ## Download this first or clone it on your vscode folder
 **Cloning this repository**
@@ -20,6 +21,7 @@ This README provides concise instructions for installing dependencies and runnin
 
 1. **Install Dependencies:** Install Flask and SpaCy along with the English language model.
    ```bash
+   pip install pdfplumber
    pip install flask
    pip install spacy
    python -m spacy download en_core_web_sm
