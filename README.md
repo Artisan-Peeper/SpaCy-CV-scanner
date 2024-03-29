@@ -14,7 +14,7 @@ This README provides concise instructions for installing dependencies and runnin
 **Cloning this repository**
 - Paste this on terminal in vscode:
 - ```bash 
-  git clone https://github.com/Artisan-Peeper/SpaCy-CV-scanner
+  git clone https://github.com/Artisan-Peeper/SpaCy-CV-scanner/tree/main/SpaCy%20Main
 
 ## After cloning you will install first this Dependencies 
 
