@@ -1,4 +1,4 @@
-# Resume Entity Extraction with Flask and SpaCy
+# Resume Entity Extraction & Evaluator with Flask and SpaCy
 
 This is a simple Flask application that extracts named entities from a resume file using SpaCy.
 
