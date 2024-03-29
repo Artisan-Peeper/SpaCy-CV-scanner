@@ -26,6 +26,8 @@ This README provides concise instructions for installing dependencies and runnin
 
 2. **Running on browser:** Go in your terminal in vscode and run this command.
    ```bash
+    cd Spacy-CV-scanner
+    cd "SpaCy Main"
     python app.py
 
 3. **Testing** Try to submit a PDF file with some text (most preferrably is resume).
